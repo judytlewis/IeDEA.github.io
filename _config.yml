@@ -1,7 +1,7 @@
-title: "IeDEA Data Management and Harmonization Tools "
-description: 
+title: "IeDEA Data Tools"
+description: "Scripts for data management and harmonization using the IeDEA Data Exchange Standard"
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
