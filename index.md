@@ -1,22 +1,18 @@
 ### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+The IeDEA Data Exchange Standard (IeDEA DES) is a common data model for sharing observational HIV data, designed and maintained by the Data Harmonization Working Group (DHWG) of the [International epidemiology Databases to Evaluate AIDS](iedea.org) (IeDEA).
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+The IeDEA DES was forked from the European [HIV Cohorts Data Exchange Protocol](http://www.hicdep.org/) (HICDEP) in 2012 in order to incorporate additional variables suitable for healthcare environments and data collection in resource-limited settings. This initial version of the IeDEA DES was led by then-DHWG chair Firas Wehbe (@firaswehbe). In 2017, the IeDEA DES was majorly expanded and realigned with the HICDEP data standard under the guidance of current DHWG chair Beverly Musick (@bsmusick).
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+### Download the latest version of the DES
+Currently you can download latest version of the DES as a Word document.
+[http://iedea.github.io/downloads/IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx](http://iedea.github.io/downloads/IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx)
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+A web-browsable version of the DES will be available soon.
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### Who can use the DES?
+The IeDEA DES is used by the seven operational regions of IeDEA to exchange data with each other for collaborative research studies. Anyone is welcome to download the IeDEA DES and use it to structure their data.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+### Tools based on the IeDEA DES
+The IeDEA DHWG is in the process of developing data quality checking tools based on the latest version of the IeDEA DES. This repository contains data quality checking scripts in R that are designed to run on data in the IeDEA DES format. The scripts are being updated for the 17 February 2017 version of the IeDEA DES.
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+
