@@ -17,6 +17,6 @@ The IeDEA DHWG is in the process of developing data quality checking tools based
 
 ### Questions?
 For questions about the IeDEA DES, you can contact
-> Beverly Musick (@bsmusick), DHWG chair
-> Larry Riggen (@ldriggen-iu), contact for data quality checking scripts
-> Stephany Duda (@snduda), backup contact
+- Beverly Musick (@bsmusick), DHWG chair
+- Larry Riggen (@ldriggen-iu), contact for data quality checking scripts
+- Stephany Duda (@snduda), backup contact
