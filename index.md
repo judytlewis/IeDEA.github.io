@@ -15,4 +15,8 @@ The IeDEA DES is used by the seven operational regions of IeDEA to exchange data
 ### Tools based on the IeDEA DES
 The IeDEA DHWG is in the process of developing data quality checking tools based on the latest version of the IeDEA DES. This repository contains data quality checking scripts in R that are designed to run on data in the IeDEA DES format. The scripts are being updated for the 17 February 2017 version of the IeDEA DES.
 
-
+### Questions?
+For questions about the IeDEA DES, you can contact
+> Beverly Musick (@bsmusick), DHWG chair
+> Larry Riggen (@ldriggen-iu), contact for data quality checking scripts
+> Stephany Duda (@snduda), backup contact
