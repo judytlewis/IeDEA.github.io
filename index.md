@@ -6,7 +6,7 @@ The IeDEA DES was forked from the European [HIV Cohorts Data Exchange Protocol](
 ### Download the latest version of the DES
 Currently you can download latest version of the DES as a Word document.
 
-![Word Icon](http://iedea.github.io/images/doc.png "") [IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx](http://iedea.github.io/downloads/IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx)
+![alt text](http://iedea.github.io/images/doc.png "Word Icon") [IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx](http://iedea.github.io/downloads/IeDEA_Multiregional_Data_Transfer_Protocol_2017Feb17.docx)
 
 A web-browsable version of the DES will be available soon.
 
