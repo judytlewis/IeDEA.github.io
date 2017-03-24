@@ -1,5 +1,5 @@
 ### Data Exchange Standard for Observational HIV Data
-The __IeDEA Data Exchange Standard (IeDEA DES)__ is a common data model for sharing observational HIV data, designed and maintained by the Data Harmonization Working Group (DHWG) of the [International epidemiology Databases to Evaluate AIDS](iedea.org) (IeDEA).
+The __IeDEA Data Exchange Standard (IeDEA DES)__ is a common data model for sharing observational HIV data, designed and maintained by the Data Harmonization Working Group (DHWG) of the [International epidemiology Databases to Evaluate AIDS](http://iedea.org) (IeDEA).
 
 The IeDEA DES was forked from the European [HIV Cohorts Data Exchange Protocol](http://www.hicdep.org/) (HICDEP) in 2012 in order to incorporate additional variables suitable for healthcare environments and data collection in resource-limited settings. This initial version of the IeDEA DES was led by then-DHWG chair Firas Wehbe (@firaswehbe). In 2017, the IeDEA DES was majorly expanded and realigned with the HICDEP data standard under the guidance of current DHWG chair Beverly Musick (@bsmusick).
 
